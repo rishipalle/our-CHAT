@@ -1,0 +1,22 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "chat-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishipalle/our-CHAT.git"
+  },
+  "author": "rishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishipalle/our-CHAT/issues"
+  },
+  "homepage": "https://github.com/rishipalle/our-CHAT#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
