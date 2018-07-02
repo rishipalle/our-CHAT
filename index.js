@@ -13,4 +13,4 @@ io.on('connection', function(socket){
   });
 });
 
-http.listen(process.env.PORT);
+http.listen(process.env.PORT||4000);
